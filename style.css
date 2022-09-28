@@ -1,6 +1,7 @@
 .canvas {
-    height: 500px;
+    height: 250px;
     width: 300px;
+    float: left;
 }
 
 .r {
@@ -29,5 +30,18 @@
     width: 10px;
     float: left;
     background-color: #3D75A7;
-    
+}
+
+.y {
+    height: 10px;
+    width: 10px;
+    float: left;
+    background-color: #F6D021;
+}
+
+.b2 {
+    height: 10px;
+    width: 10px;
+    float: left;
+    background-color: #221D21;
 }
